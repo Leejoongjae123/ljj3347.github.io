@@ -1,0 +1,62 @@
+
+.title_landing {
+    width:100%;
+    height:300px;
+    background:linear-gradient(skyBlue, Purple)    
+}
+.title_landing {
+    color:white;
+    padding-left:50px;
+    padding-top:50px;
+}
+
+.img_phone {
+    background-image: url(/landing/iphone.png);
+    width:25%;
+    height:200px;
+    min-height: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display:float;
+    position:absolute;
+    left:60%;
+    bottom:0px;
+    
+}
+
+.title_container {
+    position:relative;
+    margin-top:1px;
+    
+}
+
+.question_container {
+    text-align: center;
+}
+
+.button_portfolio {
+    width:150px;
+    height:50px;
+    background-color:grey;
+    color:white;
+    border: 0;
+}
+
+.icon_container {
+    background-color:cadetblue;
+    height:200px;
+    display:flex;
+}
+
+.icon_container > div{
+    width:15%;
+    text-align: center;
+}
+
+.container {
+    display:flex;
+}
+
+.col-4 {
+    background: black;
+}

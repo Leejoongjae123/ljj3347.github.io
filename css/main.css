@@ -1,0 +1,58 @@
+@font-face{
+    font-family:'NanumSquareB';
+    src: url(../font/NanumSquareB.woff)
+}
+
+body{
+    font-family:'nanumSquareB';
+    
+}
+
+.white-box{
+    background:white;
+    padding:20px;
+    border-radius: 5px;
+    margin
+    box-shadow: 0.5px 0.5px 2px 1px #eee;
+}
+
+
+.fa-solid {
+    margin-right:10px;
+    margin-top:3px;
+    color: #6fbaf8
+}
+
+.btn-primary {
+    background: #6fbaf8;
+    border-color:white;
+    
+}
+
+
+
+
+.left {
+    margin:20px;
+}
+
+
+
+.pill {
+    display: inline-block;
+	border: 1px solid lightgray;
+	border-radius: 100px;
+	padding: 10px;
+	margin-right: 2px;
+	margin-bottom: 2px;
+    
+}
+
+.col-md-4 {
+    border-left:1px solid #f7f9fc;
+}
+
+.pseudo::first-letter {
+    color:skyblue;
+    font-size: 20px;
+}
